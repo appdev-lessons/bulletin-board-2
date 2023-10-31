@@ -22,7 +22,9 @@ Click around and notice what the differences are between our new target and the 
 
 ## Setup 
 
-Here is your target: [bulletin-board-2.matchthetarget.com](https://bulletin-board-2.matchthetarget.com/)
+Here is your target: 
+
+[bulletin-board-2.matchthetarget.com](https://bulletin-board-2.matchthetarget.com/)
 
 This project includes automated tests, so click on this button to get started:
 
@@ -140,6 +142,10 @@ You have all the tools you need:
 So all you need to do is conditionally show a "Delete post" link! Revisit e.g. Must See Movies for a look at one of your previous delete links if you need.
 
 Give it a shot!
+
+## Our Devise guide
+
+We prepared a manual with the steps to setup Devise in your project. It includes the steps in this project, and some additional things that you can do, such as editing Devise view templates. That is very important if your `User` model has attributes that you want to edit besides the email and password. [Here is that manual, which should serve as your go-to guide on user accounts with Devise.](https://learn.firstdraft.com/lessons/238-authentication-with-devise-basics)
 
 ---
 
