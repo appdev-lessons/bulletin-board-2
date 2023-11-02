@@ -145,7 +145,7 @@ Give it a shot!
 
 ## Our Devise guide
 
-We prepared a manual with the steps to setup Devise in your project. It includes the steps in this project, and some additional things that you can do, such as editing Devise view templates. That is very important if your `User` model has attributes that you want to edit besides the email and password. [Here is that manual, which should serve as your go-to guide on user accounts with Devise.](https://learn.firstdraft.com/lessons/238-authentication-with-devise-basics). You may want to skip right to the [section on customizing views and forms.](https://learn.firstdraft.com/lessons/238-authentication-with-devise-basics#customizing-devise-views)
+We prepared a manual with the steps to setup Devise in your project. It includes the steps in this project, and some additional things that you can do, such as editing Devise view templates. That is very important if your `User` model has attributes that you want to edit besides the email and password. [Here is that manual, which should serve as your go-to guide on user accounts with Devise.](https://learn.firstdraft.com/lessons/238-authentication-with-devise-basics) You may want to skip right to the [section on customizing views and forms.](https://learn.firstdraft.com/lessons/238-authentication-with-devise-basics#customizing-devise-views)
 
 ---
 
